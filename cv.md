@@ -67,3 +67,12 @@ bubbleSort([3, 2, 10, -2, 0]); // => [ -2, 0, 2, 3, 10 ]
 ## Experience
 
 - **acme** website
+
+## Education
+
+- Moscow Aviation Institue (Business informatics)
+- RS School (in progress)
+- Hexlet (in progress)
+- Introduction to Computer Science with Python MIT (Self-paced)
+- Kevin Powell courses (CSS Demystified, RWD Bootcamp)
+- Frontend Masters (CSS track, Javascript track)
