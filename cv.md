@@ -21,3 +21,45 @@ I really like web development and design. I found really interesting making webs
 - OS: Windows, Linux (Ubuntu, Manjaro)
 - Design Tools: Figma, Photoshop
 - Editors: Webstorm, VS Code, Vim (Basic)
+
+## Code examples
+
+### Javascript
+
+```js
+const bubbleSort = (coll) => {
+  let stepsCount = coll.length - 1;
+  let swapped;
+
+  do {
+    swapped = false;
+    
+    for (let i = 0; i < stepsCount; i += 1) {
+      if (coll[i] > coll[i + 1]) {
+        const temp = coll[i];
+        coll[i] = coll[i + 1];
+        coll[i + 1] = temp;
+        swapped = true;
+      }
+    }
+
+    stepsCount -= 1;
+  } while (swapped); 
+
+  return coll;
+};
+
+bubbleSort([3, 2, 10, -2, 0]); // => [ -2, 0, 2, 3, 10 ]
+```
+
+### SCSS
+
+```css
+.repeating-responsive-grid {
+  display: grid;
+  padding: 1rem;
+  
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 1rem;
+}
+```
