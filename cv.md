@@ -12,9 +12,12 @@ I really like web development and design. I found really interesting making webs
 
 ## Skills
 
-- HTML (PUG, Handlebars)
+- HTML (PUG)
 - CSS (Sass, BEM, RWD, Modern Layouts)
 - JavaScript (Fundamentals,Functional Programming, OOP, Asynchronous JavaScript, ES6+,DOM),JSON
-- Animations (GSAP, SVG animations)
+- Animations (Vanilla JS and CSS animations, GSAP, SVG animations)
 - Accessibility (WAI-ARIA, media and mobile a11y)
-- JavaScript (Fundamentals, ES6+, FP, OOP, Async JS, DOM manipulation, fetch)
+- Version control: Git
+- OS: Windows, Linux (Ubuntu, Manjaro)
+- Design Tools: Figma, Photoshop
+- Editors: Webstorm, VS Code, Vim (Basic)
