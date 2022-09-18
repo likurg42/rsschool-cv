@@ -76,3 +76,8 @@ bubbleSort([3, 2, 10, -2, 0]); // => [ -2, 0, 2, 3, 10 ]
 - Introduction to Computer Science with Python MIT (Self-paced)
 - Kevin Powell courses (CSS Demystified, RWD Bootcamp)
 - Frontend Masters (CSS track, Javascript track)
+
+## Languages
+
+- Russian
+- English (C1 ADVANCED)
