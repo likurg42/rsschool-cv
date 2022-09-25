@@ -1,1 +1,1 @@
-feat: add CV Page link to readme
+https://likurg42.github.io/rsschool-cv/
